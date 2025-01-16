@@ -36,7 +36,6 @@ This repository documents the learning journey for CSE 445, a course focused on 
 ├── 📁  resources/         # Other resources
 ├── 📄  Outline.md         # The course outline
 └── 📄  README.md          # This file
-
 ```
 </div>
 
