@@ -29,13 +29,15 @@ This repository documents the learning journey for CSE 445, a course focused on 
 <div align = "left">
 
 ```plaintext
-📁  self-machine-learning
+📁  machine-learning-sem10
 ├── 📁  datasets/          # Sample datasets for practical assignments
 ├── 📁  notes/             # Notes from lectures and additional resources
-├── 📁  notebooks/         # Jupyter notebooks documenting exercises and projects
+├── 📁  class-notebooks/   # Jupyter notebooks covered and created in class
 ├── 📁  resources/         # Other resources
 ├── 📁  slides/            # Powerpoints discussed in class
+├── 📄  Outline.md         # The course outline
 └── 📄  README.md          # This file
+
 ```
 </div>
 
