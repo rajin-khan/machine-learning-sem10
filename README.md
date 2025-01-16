@@ -34,7 +34,6 @@ This repository documents the learning journey for CSE 445, a course focused on 
 ├── 📁  notes/             # Notes from lectures and additional resources
 ├── 📁  class-notebooks/   # Jupyter notebooks covered and created in class
 ├── 📁  resources/         # Other resources
-├── 📁  slides/            # Powerpoints discussed in class
 ├── 📄  Outline.md         # The course outline
 └── 📄  README.md          # This file
 
