@@ -1,5 +1,5 @@
 * ML Pipeline
-    * Define the project problem
+    * 1: Define the project problem
     * 2: Collect (unprepared) dataset (the more, the better)
       * Why? Defined later.
       * Data collection depends on budget, use case, and system.
