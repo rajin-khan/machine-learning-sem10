@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>RegressoBot – Boston Housing Insights</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://unpkg.com/lucide@latest"></script>
+  <script>window.onload = () => lucide.createIcons();</script>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+  <script defer src="script.js"></script>
+</head>
+<body class="bg-gradient-to-br from-purple-800 via-blue-900 to-purple-900 text-white font-[Inter]">
+
+  <!-- Navbar -->
+  <nav class="bg-black/50 border-b border-white/10 backdrop-blur fixed w-full z-10">
+    <div class="max-w-6xl mx-auto px-6 py-4 flex justify-between items-center">
+      <h1 class="text-2xl font-bold text-purple-300">RegressoBot</h1>
+      <ul class="flex gap-6 text-sm font-medium text-white/80">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="ask.html">Ask RegressoBot</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <!-- Hero -->
+  <main class="pt-24 px-8 lg:px-20 min-h-screen flex flex-col justify-center gap-12 text-center">
+    <div>
+      <h2 class="text-5xl lg:text-7xl font-bold text-white drop-shadow-sm leading-tight">
+        Discover the Boston Housing Dataset<br>with RegressoBot
+      </h2>
+      <p class="text-purple-200 text-lg max-w-2xl mx-auto mt-6">
+        An AI-powered assistant trained on Adib’s analysis to help you explore regression models, feature importance, and predictive insights.
+      </p>
+    </div>
+
+    <button id="explore-btn" class="mx-auto bg-gradient-to-r from-purple-400 to-blue-400 text-black text-lg px-6 py-3 rounded-xl font-semibold hover:scale-105 transition shadow-lg">
+      Chat with RegressoBot
+    </button>
+  </main>
+</body>
+</html>
