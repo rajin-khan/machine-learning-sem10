@@ -94,3 +94,33 @@ Visualizations of feature importance were provided using **bar plots**, highligh
 - **Linear Regression** offers speed and interpretability but fails to capture complex patterns.
 - **Polynomial Regression** adds complexity without improving accuracy.
 - Regularization has minimal impact, suggesting the dataset is not suffering from overfitting.
+
+# NOVELTY:
+
+## Web Application & RegressoBot Integration
+
+To enhance the interactivity and user understanding of the regression analysis, a custom chatbot called **RegressoBot** was developed and integrated into a web interface.
+
+### Features of the Chatbot:
+- Hosted locally using **Ollama** and the **LLaMA 3.2** model
+- Fine-tuned system prompt to behave like a regression assistant
+- Responds to natural language queries regarding:
+  - Model evaluation metrics (e.g., R², RMSE)
+  - Feature importance
+  - Dataset insights
+  - Justification of model choices
+
+### Technologies Used:
+| Layer            | Tech Stack                 |
+|------------------|----------------------------|
+| Frontend         | HTML, CSS, JavaScript      |
+| Backend (LLM)    | Ollama + LLaMA 3.2         |
+| Communication    | Localhost HTTP (REST API)  |
+| Local Testing    | `http://localhost:11434`   |
+
+### Interface Highlights:
+- Beautiful and responsive interface built with a modern aesthetic
+- Styled chat interface that mimics real-time conversation
+
+### This demo is running locally as of now. Please visit the link below to watch a demo, where all other scripts and files are also available:
+## [Adib's CSE445 Repository](https://github.com/rajin-khan/machine-learning-sem10/tree/main/assignments/Assignment2/website)
