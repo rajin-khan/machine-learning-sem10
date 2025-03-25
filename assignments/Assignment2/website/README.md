@@ -1,3 +1,5 @@
+<div align="center">
+
 # RegressoBot – Interactive Regression Assistant
 
 ---
@@ -36,3 +38,5 @@ This chatbot complements **Assignment 2** from CSE445:
 | Name                      | Institution             | ID | GitHub | Followers |
 |---------------------------|-------------------------|--  |--------|------|
 | **Rajin Khan**            | North South University | 2212708042 | [![Rajin's GitHub](https://img.shields.io/badge/-rajin--khan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajin-khan) | ![Followers](https://img.shields.io/github/followers/rajin-khan?label=Follow&style=social) |
+
+</div>
