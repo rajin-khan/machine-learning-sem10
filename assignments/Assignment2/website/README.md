@@ -33,7 +33,7 @@ This is a web-based chatbot that interacts with a fine-tuned local LLaMA 3.2 mod
 ## 📁 Related Work
 
 This chatbot complements **Assignment 2** from CSE445:  
-📄 [View Full Report](Assignment_2_Report.md)
+📄 [View Full Report](../Assignment_2_Report.md)
 
 ---
 
