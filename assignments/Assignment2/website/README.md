@@ -5,6 +5,8 @@
 ---
 ## 🎥 Demo
 
+https://github.com/user-attachments/assets/ad83f8e2-fc8b-4489-abc5-af13c8b99afc
+
 ---
 
 This is a web-based chatbot that interacts with a fine-tuned local LLaMA 3.2 model to explain concepts from **Assignment 2 (Regression Task with Evaluation Methods)** using the **Boston Housing dataset**.
